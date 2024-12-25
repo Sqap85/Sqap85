@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l6aGg1a214b2dqOWRoOHgwbnppbTh4ejNyN2xvZTA5aHl6NTk5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhTtWRxwvE3jAmAuLY/giphy.webp"  />
+  <img height="250" src="assets/vs.gif"  />
 </div>
 
 ###
