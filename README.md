@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">“It's very attractive to the libertarian viewpoint if we can explain it properly. I'm better with code than with words though.”<br>-Satoshi Nakamoto<br>
+<h3 align="left">“It's very attractive to the libertarian viewpoint if we can explain it properly. I'm better with code than with words though.”<br>-Satoshi Nakamoto<br><br>
 </h3>
 
 ###
