@@ -51,7 +51,7 @@
 
 ###
 
-<br clear="both">
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Sqap85/Sqap85/output/snake.svg" alt="Snake animation" />
 
